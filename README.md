@@ -1,5 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning Java and OOP!
+
 🌱 I’m currently learning how to make my own module for Odoo!
 
 <!--
