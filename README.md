@@ -1,7 +1,7 @@
 ## Hi there 👋
 🌱 I’m currently learning Java and OOP!
 
-🌱 I’m currently learning how to make my own module for Odoo!
+🌱 I’m currently learning how to make my own modules for Odoo!
 
 <!--
 **Godgives90/Godgives90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
